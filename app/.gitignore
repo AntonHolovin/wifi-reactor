@@ -1,0 +1,22 @@
+### Mac OS ###
+.DS_Store
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+/*.iml
+
+### Gradle ###
+build/
+
+### Fabric ###
+fabric.properties
+fabric/*
+
+### Keys ###
+keys/release-key-data.properties
+keys/MayTindaMerchant.jks
