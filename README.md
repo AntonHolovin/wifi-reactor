@@ -1,4 +1,4 @@
-# Wi-Fi reactor
+# Wi-Fi Reactor
 
 <img src="https://raw.githubusercontent.com/AntonyGolovin/Wi-Fi-reactor/master/art/demo.gif" width="200" />
 
